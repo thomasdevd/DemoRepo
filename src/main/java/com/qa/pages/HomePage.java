@@ -3,7 +3,7 @@ package com.qa.pages;
 public class HomePage {
 	
 	public void homePage(){
-		System.out.println("HomePage");
-		System.out.println("home page");
+		System.out.println("HomePageTesting");
+		System.out.println("home pageTesting");
 	}
 }
